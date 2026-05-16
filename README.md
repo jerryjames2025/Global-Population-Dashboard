@@ -8,7 +8,7 @@ This project presents an interactive Power BI dashboard analyzing global populat
 🎯 Objectives
 
 Identify countries with the highest population growth over 55 years
-Analyze continental population distribution over time
+Analyze continental population distribution over time 
 Highlight countries with extreme population density relative to land area
 Forecast which nations will be the biggest contributors to future global growth
 Compare population trends between developed and developing countries
